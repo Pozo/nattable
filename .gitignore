@@ -1,0 +1,7 @@
+.classpath
+.project
+.codepro
+.settings
+bin
+*.jar
+
